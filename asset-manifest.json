@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lowsugarcoke/APPorgram/static/css/main.073c9b0a.css",
+    "main.js": "/lowsugarcoke/APPorgram/static/js/main.f953e17e.js",
+    "static/js/787.b6f2dba5.chunk.js": "/lowsugarcoke/APPorgram/static/js/787.b6f2dba5.chunk.js",
+    "static/media/logo.svg": "/lowsugarcoke/APPorgram/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lowsugarcoke/APPorgram/index.html",
+    "main.073c9b0a.css.map": "/lowsugarcoke/APPorgram/static/css/main.073c9b0a.css.map",
+    "main.f953e17e.js.map": "/lowsugarcoke/APPorgram/static/js/main.f953e17e.js.map",
+    "787.b6f2dba5.chunk.js.map": "/lowsugarcoke/APPorgram/static/js/787.b6f2dba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f953e17e.js"
+  ]
+}

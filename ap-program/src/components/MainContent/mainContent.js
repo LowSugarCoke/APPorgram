@@ -6,10 +6,10 @@ import styles from './MainContent.module.css';
 
 function MainContent() {
     return (
-        <Container fluid className={styles.mainContainer}>
+        <Container className={styles.mainContainer}>
             <Row className={styles.bannerRow}>
                 <Col>
-                    <Banner></Banner>
+                    <Banner className={styles.banner}></Banner>
                 </Col>
             </Row>
             <Row className={styles.cardRow}>

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lowsugarcoke/apporgram/static/css/main.7ade0e3a.css",
-    "main.js": "/lowsugarcoke/apporgram/static/js/main.4effbdd2.js",
-    "static/js/787.b6f2dba5.chunk.js": "/lowsugarcoke/apporgram/static/js/787.b6f2dba5.chunk.js",
-    "static/media/main-banner.jpg": "/lowsugarcoke/apporgram/static/media/main-banner.48767e9730558359c937.jpg",
-    "index.html": "/lowsugarcoke/apporgram/index.html",
-    "main.7ade0e3a.css.map": "/lowsugarcoke/apporgram/static/css/main.7ade0e3a.css.map",
-    "main.4effbdd2.js.map": "/lowsugarcoke/apporgram/static/js/main.4effbdd2.js.map",
-    "787.b6f2dba5.chunk.js.map": "/lowsugarcoke/apporgram/static/js/787.b6f2dba5.chunk.js.map"
+    "main.css": "/apporgram/static/css/main.c1920b45.css",
+    "main.js": "/apporgram/static/js/main.d1a59415.js",
+    "static/js/787.b6f2dba5.chunk.js": "/apporgram/static/js/787.b6f2dba5.chunk.js",
+    "static/media/main-banner.jpg": "/apporgram/static/media/main-banner.48767e9730558359c937.jpg",
+    "index.html": "/apporgram/index.html",
+    "main.c1920b45.css.map": "/apporgram/static/css/main.c1920b45.css.map",
+    "main.d1a59415.js.map": "/apporgram/static/js/main.d1a59415.js.map",
+    "787.b6f2dba5.chunk.js.map": "/apporgram/static/js/787.b6f2dba5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ade0e3a.css",
-    "static/js/main.4effbdd2.js"
+    "static/css/main.c1920b45.css",
+    "static/js/main.d1a59415.js"
   ]
 }

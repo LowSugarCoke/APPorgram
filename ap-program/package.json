@@ -2,7 +2,7 @@
   "name": "ap-program",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/lowsugarcoke/APPorgram",
+  "homepage": "https://lowsugarcoke.github.io/APPorgram",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

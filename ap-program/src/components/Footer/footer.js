@@ -1,10 +1,11 @@
 import React from 'react';
+import styles from './Footer.module.css'; // 請根據你的檔案結構調整路徑
 
-function Footer() {
+const Footer = () => {
     return (
-        <header>
-            {/* 插入你的代碼，例如導覽列等 */}
-        </header>
+        <div className={styles.footer}>
+            <p>AP程式版權所有 &copy; 2023</p>
+        </div>
     );
 }
 

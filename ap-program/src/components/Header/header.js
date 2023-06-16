@@ -1,9 +1,9 @@
-import React from 'react';
+import NavBar from "./Navbar";
 
 function Header() {
     return (
         <header>
-            {/* 插入你的代碼，例如導覽列等 */}
+            <NavBar></NavBar>
         </header>
     );
 }

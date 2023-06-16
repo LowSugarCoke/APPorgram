@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/apporgram/static/css/main.c1920b45.css",
-    "main.js": "/apporgram/static/js/main.d1a59415.js",
-    "static/js/787.b6f2dba5.chunk.js": "/apporgram/static/js/787.b6f2dba5.chunk.js",
-    "static/media/main-banner.jpg": "/apporgram/static/media/main-banner.48767e9730558359c937.jpg",
-    "index.html": "/apporgram/index.html",
-    "main.c1920b45.css.map": "/apporgram/static/css/main.c1920b45.css.map",
-    "main.d1a59415.js.map": "/apporgram/static/js/main.d1a59415.js.map",
-    "787.b6f2dba5.chunk.js.map": "/apporgram/static/js/787.b6f2dba5.chunk.js.map"
+    "main.css": "/APPorgram/static/css/main.3bbd9b2e.css",
+    "main.js": "/APPorgram/static/js/main.ea8b03d7.js",
+    "static/js/787.b6f2dba5.chunk.js": "/APPorgram/static/js/787.b6f2dba5.chunk.js",
+    "static/media/main-banner.jpg": "/APPorgram/static/media/main-banner.48767e9730558359c937.jpg",
+    "index.html": "/APPorgram/index.html",
+    "main.3bbd9b2e.css.map": "/APPorgram/static/css/main.3bbd9b2e.css.map",
+    "main.ea8b03d7.js.map": "/APPorgram/static/js/main.ea8b03d7.js.map",
+    "787.b6f2dba5.chunk.js.map": "/APPorgram/static/js/787.b6f2dba5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1920b45.css",
-    "static/js/main.d1a59415.js"
+    "static/css/main.3bbd9b2e.css",
+    "static/js/main.ea8b03d7.js"
   ]
 }

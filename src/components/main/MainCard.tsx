@@ -29,8 +29,10 @@ const MainCard = ({ imgLink, title, content, link }: Prop) => {
                 <Card.Text>
                     {content}
                 </Card.Text>
-                <Button variant="primary" className={styles.button} href={link}>Read More</Button>
             </Card.Body>
+            <div className={styles.btnGrid}>
+                <Button variant="primary" className={styles.button} href={link}>Read More</Button>
+            </div>
         </Card>
     );
 }

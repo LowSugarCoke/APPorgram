@@ -32,12 +32,15 @@
 }
 
 @media (min-width: 577px) {
-    .banner {
-        height: 40vh;
-    }
-
     .content {
         width: 80%;
+    }
 
+    .contentHeader {
+        font-size: 50px;
+    }
+
+    .contentContent {
+        font-size: 25px;
     }
 }

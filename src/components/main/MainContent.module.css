@@ -1,5 +1,4 @@
 .mainContainer {
-    border: 2px solid black;
     width: 100%;
     padding: 0 0;
 }
@@ -29,16 +28,6 @@
 }
 
 @media (min-width: 577px) {
-
-    .mainContainer {
-        padding-left: calc(var(--bs-gutter-x) * .5);
-        padding-right: calc(var(--bs-gutter-x) * .5);
-    }
-
-    .bannerCol {
-        padding-right: calc(var(--bs-gutter-x) * .5);
-        padding-left: calc(var(--bs-gutter-x) * .5);
-    }
 
     .mainCardRow {
         width: 70%;

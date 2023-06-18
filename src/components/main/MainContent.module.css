@@ -1,0 +1,53 @@
+.mainContainer {
+    border: 2px solid black;
+    width: 100%;
+    padding: 0 0;
+}
+
+.bannerRow {
+    margin: 50px auto;
+    width: 100%;
+    padding: 0 0;
+}
+
+.bannerCol {
+    width: 100%;
+    padding: 0 0;
+}
+
+.mainCardRow {
+    margin: 50px 0px;
+    justify-content: center;
+}
+
+.mainCardCol {
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 10px auto;
+}
+
+@media (min-width: 577px) {
+
+    .mainContainer {
+        padding-left: calc(var(--bs-gutter-x) * .5);
+        padding-right: calc(var(--bs-gutter-x) * .5);
+    }
+
+    .bannerCol {
+        padding-right: calc(var(--bs-gutter-x) * .5);
+        padding-left: calc(var(--bs-gutter-x) * .5);
+    }
+
+    .mainCardRow {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content: center;
+    }
+
+    .mainCardCol {
+        justify-content: center;
+    }
+}
